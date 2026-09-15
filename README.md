@@ -34,7 +34,7 @@ I tested all the plugin features using my Ender 3 V2 (Using original Marlin as F
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/dpradeepraja/OctoTuya-SmartPlug-3.5-/archive/main.zip
+    https://github.com/dpradeepraja/OctoTuya-SmartPlug-3.5-/archive/refs/heads/main.zip
 
 ## Preparatory Work
 
