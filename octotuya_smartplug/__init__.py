@@ -173,10 +173,6 @@ class octotuyaPlugin(
                         args=[plug["sysRunCmdOn"]],
                     )
                     t.start()
-                else:
-                    self._plugin_manager.send_plugin_message(
-                        self._identifier, dict(currentState="unknown", label=pluglabel)
-                    )
 
     def turn_off(self, pluglabel):
         self._octotuya_logger.debug("Turning off %s." % pluglabel)
